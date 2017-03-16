@@ -4,7 +4,7 @@
   "version": "0.0.1",
   "private": false,
   "description": "A syntax theme based on the Laravel documentation color scheme",
-  "repository": "https://github.com/gempetpet/laravel-syntax",
+  "repository": "https://github.com/gmpetpet/laravel-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
